@@ -1,7 +1,7 @@
 {
   "name": "node",
   "version": "1.0.0",
-  "description": "",
+  "description": "this is one of the simple menu rendering I was working on while trying to learning html",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.18.1"
-  }
+    "express": "^4.18.1",
+    "http-server": "^14.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lehan0328/learning_html.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lehan0328/learning_html/issues"
+  },
+  "homepage": "https://github.com/lehan0328/learning_html#readme"
 }
